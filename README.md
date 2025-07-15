@@ -1,4 +1,4 @@
-<img width="337" height="671" alt="Screenshot 2025-07-15 at 3 09 04 PM" src="https://github.com/user-attachments/assets/aa0b51a9-5c18-4524-b3ac-45c9f627ad6b" /># 🚗 Automatic Rain Sensing Car Wipers
+<img width="300" height="305" alt="Screenshot 2025-07-15 at 3 13 37 PM" src="https://github.com/user-attachments/assets/5d3a37fa-23e6-469f-8c92-6f297bf603e1" /># 🚗 Automatic Rain Sensing Car Wipers
 
 An intelligent embedded system that detects rainfall using capacitive and conductive sensors and automates wiper activation based on real-time rain intensity and GPS data. This project enhances driver safety by reducing distraction during inclement weather conditions.
 
@@ -62,7 +62,13 @@ This system automatically controls car windshield wipers using rain sensors and 
 ├── Automatic_Rain_Sensing_Wiper_Code.ino
 ├── Automatic_Rain_Sensing_Wiper_Code.pdf
 ├── README.md
+
+<img width="337" height="671" alt="Screenshot 2025-07-15 at 3 09 04 PM" src="https://github.com/user-attachments/assets/aa0b51a9-5c18-4524-b3ac-45c9f627ad6b" />
+<img width="172" height="155" alt="image" src="https://github.com/user-attachments/assets/61a961da-b559-4b3c-be55-7617e0853bae" />
+
+
 ---
+
 
 ## 🚀 Getting Started
 
